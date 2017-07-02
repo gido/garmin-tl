@@ -1,0 +1,9 @@
+<properties>
+	<property id="line1Id" type="string">11821953316814881</property>
+	<property id="stop1Id" type="string">3377704015495811</property>
+	<property id="wayback1" type="boolean">true</property>
+
+	<property id="line2Id" type="number">11821953316814881</property>
+	<property id="stop2Id" type="number">3377704015495811</property>
+	<property id="wayback1" type="boolean">true</property>	
+</properties>

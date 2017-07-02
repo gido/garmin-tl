@@ -1,3 +1,6 @@
 <strings>
     <string id="AppName">tl</string>
+    <string id="Line1IdTitle">Ligne 1</string>
+    <string id="Stop1IdTitle">Stop 1</string>
+    <string id="Wayback1Title">Way back</string>
 </strings>

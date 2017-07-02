@@ -8,6 +8,11 @@ class tlView extends Ui.View {
 
     // Load your resources here
     function onLayout(dc) {
+        System.println( "Hello Monkey C!" );
+        
+        var config = WatchUi.loadResource(Rez.JsonData.config);
+        System.println(config);
+            
         setLayout(Rez.Layouts.MainLayout(dc));
     }
 

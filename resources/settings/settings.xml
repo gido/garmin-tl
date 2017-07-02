@@ -1,0 +1,14 @@
+<settings>
+
+    <setting propertyKey="@Properties.line1Id" title="@Strings.Line1IdTitle" prompt="@Strings.Line1IdTitle" helpUrl="https://example.org/help">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.stop1Id" title="@Strings.Stop1IdTitle" prompt="@Strings.Stop1IdTitle">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+    <setting propertyKey="@Properties.wayback1" title="@Strings.Wayback1Title" prompt="@Strings.Wayback1Title">
+        <settingConfig type="boolean" />
+    </setting>
+</settings>
